@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plan-with-tj-react/static/css/main.fb47646d.css",
+    "main.js": "/plan-with-tj-react/static/js/main.d34e7b69.js",
+    "index.html": "/plan-with-tj-react/index.html",
+    "main.fb47646d.css.map": "/plan-with-tj-react/static/css/main.fb47646d.css.map",
+    "main.d34e7b69.js.map": "/plan-with-tj-react/static/js/main.d34e7b69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb47646d.css",
+    "static/js/main.d34e7b69.js"
+  ]
+}
